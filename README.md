@@ -1,7 +1,8 @@
 ## I'm Momin 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momin210103&show_icons=true)](https://github.com/momin210103/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momin210103&layout=pie)](https://github.com/momin210103/github-readme-stats)
-![](https://leetcard.jacoblin.cool/momin210103?ext=heatmap)
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=momin210103"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momin210103&layout=compact"/>
+<img align="left" width="50%" src="https://leetcard.jacoblin.cool/momin210103?ext=heatmap"/>
+
 
 <!--
 **momin210103/momin210103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
