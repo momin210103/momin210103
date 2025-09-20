@@ -1,5 +1,6 @@
 ## I'm Momin 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momin210103)](https://github.com/momin210103/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momin210103&show_icons=true)](https://github.com/momin210103/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momin210103&layout=pie)](https://github.com/momin210103/github-readme-stats)
 ![](https://leetcard.jacoblin.cool/momin210103?ext=heatmap)
 
 <!--
