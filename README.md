@@ -1,4 +1,5 @@
 ## I'm Momin 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momin210103)](https://github.com/momin210103/github-readme-stats)
 ![](https://leetcard.jacoblin.cool/momin210103?ext=heatmap)
 
 <!--
