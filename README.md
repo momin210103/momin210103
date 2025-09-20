@@ -1,7 +1,11 @@
 ## I'm Momin 👋
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=momin210103"/>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momin210103&layout=compact"/>
-<img align="left" width="50%" src="https://leetcard.jacoblin.cool/momin210103?ext=heatmap"/>
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=momin210103"/> 
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momin210103&layout=compact"/>
+</p>
+
+<img align="left" width="100%" src="https://leetcard.jacoblin.cool/momin210103?ext=heatmap"/>
+
 
 
 <!--
